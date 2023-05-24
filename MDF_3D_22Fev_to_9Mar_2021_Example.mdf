@@ -1,0 +1,162 @@
+Ident  = #Delft3D-FLOW 3.59.01.57433#
+Commnt =                  
+Filcco = #Grid_sferic.grd#
+Filgrd = #Grid_sferic.enc#
+MNKmax = 262 280 5
+Thick  =  2.0000000e+001
+          2.0000000e+001
+          2.0000000e+001
+          2.0000000e+001
+          2.0000000e+001
+Commnt =                  
+Fildep = #depth.dep#
+Commnt =                  
+Commnt =                 no. dry points: 1935
+Fildry = #dry_points.dry#
+Commnt =                 no. thin dams: 65
+Filtd  = #thin_dams.thd#
+Commnt =                  
+Itdate = #2021-02-22#
+Tunit  = #M#
+Tstart =  0.0000000e+000
+Tstop  =  2.1600000e+004
+Dt     = 0.5
+Tzone  = 0
+Commnt =                  
+Sub1   = #STW #
+Sub2   = #   #
+Commnt =                  
+Wnsvwp = #Y#
+Wndint = #Y#
+Commnt =                  
+Zeta0  =  0.0000000e+000
+S0     =  3.0000000e+000
+          3.0000000e+000
+          3.0000000e+000
+          3.0000000e+000
+          3.0000000e+000
+T0     =  2.5000000e+001
+          2.5000000e+001
+          2.5000000e+001
+          2.5000000e+001
+          2.5000000e+001
+Commnt =                  
+Commnt =                 no. open boundaries: 16
+Filbnd = #Bnd.bnd#
+FilbcT = #BCT_File.bct#
+FilbcC = #BCC_File.bcc#
+Rettis =  0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+Rettib =  0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+Commnt =                  
+Ag     =  9.8100000e+000
+Rhow   =  1.0250000e+003
+Tempw  =  1.5000000e+001
+Salw   =  3.1000000e+001
+Wstres =  1.5500000e-003  0.0000000e+000  8.5500000e-003  1.9220000e+001  8.5500000e-003  1.9220000e+001
+Rhoa   =  1.0000000e+000
+Betac  =  5.0000000e-001
+Equili = #N#
+Tkemod = #Algebraic   #
+Ktemp  = 5
+Fclou  =  0.0000000e+000
+Sarea  =  0.0000000e+000
+Secchi =  1.4000000e+000
+Stantn =  1.3000000e-003
+Dalton =  1.3000000e-003
+Filtmp = #sol_202102_202103.tem#
+Solrad = #Y#
+Temint = #Y#
+Tidfor = #M2 S2 N2 K2 #
+         #K1 O1 P1 Q1 #
+         #MF MM SSA---#
+Commnt =                  
+Roumet = #W#
+Ccofu  =  1.0000000e-005
+Ccofv  =  1.0000000e-005
+Xlo    =  0.0000000e+000
+Vicouv =  1.1250000e+001
+Dicouv =  2.5000000e+001
+Htur2d = #N#
+Vicoww =  1.0000000e-002
+Dicoww =  1.0000000e-003
+Irov   = 0
+Commnt =                  
+Iter   =      2
+Dryflp = #YES#
+Dpsopt = #MAX#
+Dpuopt = #MEAN#
+Dryflc =  1.0000000e-001
+Dco    = -9.9900000e+002
+Tlfsmo =  6.0000000e+001
+ThetQH =  0.0000000e+000
+Forfuv = #Y#
+Forfww = #Y#
+Sigcor = #N#
+Trasol = #Cyclic-method#
+Momsol = #Cyclic#
+Commnt =                  
+Commnt =                 no. discharges: 28
+Filsrc = #Src.src#
+Fildis = #DIS_Feb2021.dis#
+Commnt =                 no. observation points: 5
+Filsta = #obs.obs#
+Commnt =                 no. drogues: 0
+Commnt =                  
+Commnt =                  
+Commnt =                 no. cross sections: 4
+Filcrs = #secoes.crs#
+Commnt =                  
+SMhydr = #YYYYY#     
+SMderv = #YYYYYY#    
+SMproc = #YYYYYYYYYY#
+PMhydr = #YYYYYY#    
+PMderv = #YYY#       
+PMproc = #YYYYYYYYYY#
+SHhydr = #YYYY#      
+SHderv = #YYYYY#     
+SHproc = #YYYYYYYYYY#
+SHflux = #YYYY#      
+PHhydr = #YYYYYY#    
+PHderv = #YYY#       
+PHproc = #YYYYYYYYYY#
+PHflux = #YYYY#      
+Flmap  =  0.0000000e+000 60  2.1600000e+004
+Flhis  =  0.0000000e+000 60  2.1600000e+004
+Flpp   =  0.0000000e+000 60  2.1600000e+004
+Flrst  = 46080
+Commnt =                  
+Online = #N#
+filwu  = #ERA5_hourly_wind_reanalysis_2021.amu#
+filwv  = #ERA5_hourly_wind_reanalysis_2021.amv#
+filwp  = #ERA5_hourly_wind_reanalysis_2021.amp#
+Commnt =                  

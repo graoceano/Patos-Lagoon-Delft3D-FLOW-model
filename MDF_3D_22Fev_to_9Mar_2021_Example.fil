@@ -1,0 +1,47 @@
+Domain, Checked : Yes       
+     Grid                  : Grid_sferic.grd
+     Grid enclosure        : Grid_sferic.enc
+     Bathymetry            : depth.dep
+     Dry points            : dry_points.dry
+     Thin dams             : thin_dams.thd
+
+Time frame, Checked : Yes       
+
+Processes, Checked : Yes       
+
+Initial conditions, Checked : Yes       
+
+Boundaries, Checked : Yes       
+     Boundary definitions  : Bnd.bnd
+     Astronomical flow conditions : none
+     Astronomical corrections : none
+     Harmonic flow conditions : none
+     QH-relation flow conditions : none
+     Time series flow conditions : BCT_File.bct
+     Transport conditions  : BCC_File.bcc
+
+Physical parameters, Checked : Yes       
+     Roughness coefficients : none
+     Hor. viscosity/diffusivity : none
+     Heat flux model data  : sol_202102_202103.tem
+     Sediment data         : none
+     Morphology data       : none
+     Uniform wind data     : none
+     Space varying wind data : none
+
+Numerical parameters, Checked : Yes       
+
+Operations, Checked : Yes       
+     Discharge definitions : Src.src
+     Discharge data        : DIS_Feb2021.dis
+     Dredging and dumping data : none
+
+Monitoring, Checked : Yes       
+     Observation points    : obs.obs
+     Drogues               : none
+     Cross-sections        : secoes.crs
+
+Additional parameters, Checked : Yes       
+
+Output, Checked : Yes       
+     Fourier analysis data : none

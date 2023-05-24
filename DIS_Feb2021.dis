@@ -1,0 +1,434 @@
+table-name           'Discharge : 1'
+contents             'regular   '
+location             'Rio Guaiba          '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     16
+0	258.319	0	25
+1440	245.014	0	25
+2880	252.867	0	25
+4320	235.781	0	25
+5760	220.313	0	25
+7200	211.788	0	25
+8640	199.21	0	25
+10080	189.915	0	25
+11520	185.136	0	25
+12960	183.31	0	25
+14400	185.737	0	25
+15840	209.76	0	25
+17280	244.571	0	25
+18720	250.209	0	25
+20160	252.429	0	25
+21600	240.083	0	25
+table-name           'Discharge : 2'
+contents             'regular   '
+location             'Rio Capivari        '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 3'
+contents             'regular   '
+location             'Rio Palmares        '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 4'
+contents             'regular   '
+location             'Sanga Pagoare       '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 5'
+contents             'regular   '
+location             'ETE Navegantes      '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 6'
+contents             'regular   '
+location             'ETE Pq. Marinha     '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 7'
+contents             'regular   '
+location             'E.I.1               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 8'
+contents             'regular   '
+location             'E.I.2               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 9'
+contents             'regular   '
+location             'E.I.3               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 10'
+contents             'regular   '
+location             'E.I.4               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 11'
+contents             'regular   '
+location             'E.D.1               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 12'
+contents             'regular   '
+location             'E.D.2               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 13'
+contents             'regular   '
+location             'E.D.3               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 14'
+contents             'regular   '
+location             'E.D.4               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 15'
+contents             'regular   '
+location             'E.D.5               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 16'
+contents             'regular   '
+location             'E.D.6               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 17'
+contents             'regular   '
+location             'E.D.7               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 18'
+contents             'regular   '
+location             'E.D.8               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 19'
+contents             'regular   '
+location             'E.D.9               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 20'
+contents             'regular   '
+location             'E.D.10              '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 21'
+contents             'regular   '
+location             'E.D.11              '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 22'
+contents             'regular   '
+location             'E.I.5               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 23'
+contents             'regular   '
+location             'E.I.6               '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 24'
+contents             'regular   '
+location             'E.D.12              '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 25'
+contents             'regular   '
+location             'E.D.13              '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 26'
+contents             'regular   '
+location             'E.D.14              '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  3.0000000e+000  4.0000000e+000
+ 2.1600000e+004  0.0000000e+000  3.0000000e+000  4.0000000e+000
+table-name           'Discharge : 27'
+contents             'regular   '
+location             'Canal Sao Goncalo   '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     16
+0	385	0	25
+1440	391	0	25
+2880	379	0	25
+4320	381	0	25
+5760	393	0	25
+7200	378	0	25
+8640	367	0	25
+10080	378	0	25
+11520	374	0	25
+12960	376	0	25
+14400	375	0	25
+15840	375	0	25
+17280	369	0	25
+18720	355	0	25
+20160	356	0	25
+21600	367	0	25
+table-name           'Discharge : 28'
+contents             'regular   '
+location             'Rio Camaqua         '
+time-function        'non-equidistant'
+reference-time       20210222
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'flux/discharge rate '                     unit '[m3/s]'
+parameter            'Salinity            '                     unit '[ppt]'
+parameter            'Temperature         '                     unit '[°C]'
+records-in-table     16
+0	146.213	0	25
+1440	141.475	0	25
+2880	112.124	0	25
+4320	102.28	0	25
+5760	90.598	0	25
+7200	73.354	0	25
+8640	64.758	0	25
+10080	64.758	0	25
+11520	56.088	0	25
+12960	50.269	0	25
+14400	46.382	0	25
+15840	44.23	0	25
+17280	44.23	0	25
+18720	67.347	0	25
+20160	65.4	0	25
+21600	48.585	0	25
